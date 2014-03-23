@@ -21,7 +21,7 @@
 				<li><a href="" id="normal">Verwacht</a></li>
 				<li><a href="" id="normal">Over ons</a></li>
 				<li><a href="" id="normal">Speellijst</a></li>
-				<li><a href="" id="normal">Fred</a></li>
+				<li><a href="" id="normal">Boekingen</a></li>
 			</div>
 
 
