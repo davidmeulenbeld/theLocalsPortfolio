@@ -45,7 +45,7 @@ body {
 	margin-left: 57px;
 	color: #000;
 	text-decoration: none;
-	width: 100%;
+	width: 130%;
 	padding-bottom: 10px;
 	display: block;
 }
@@ -59,7 +59,7 @@ body {
 
 
 }
-#normal {
+.normal {
 	margin-left: 4px;
 
 }

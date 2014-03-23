@@ -16,13 +16,14 @@
 
 			</div>
 									<div id="Nav-Bar">
-				<li><a href="" id="normal">Geweest</a></li>
+				<li><a href="" class="normal">Geweest</a></li>
 				<li><a href="" id="active">Nu</a></li>
-				<li><a href="" id="normal">Verwacht</a></li>
-				<li><a href="" id="normal">Over ons</a></li>
-				<li><a href="" id="normal">Speellijst</a></li>
-				<li><a href="" id="normal">Boekingen</a></li>
+				<li><a href="" class="normal">Verwacht</a></li>
+				<li><a href="" class="normal">Over ons</a></li>
+				<li><a href="" class="normal">Speellijst</a></li>
+				<li><a href="" class="normal">Boekingen</a></li>
 			</div>
+			
 
 
 			<div id="nu"><img src="images/flyer.jpg" id="flyer">
