@@ -1,0 +1,113 @@
+ @font-face { font-family: kop; src: url('GRATIS.ttf'); }
+body {
+		background-image:url('../images/achtergrond.jpg');
+	height: 1000px;
+	background-color: #99EBFF;	
+	font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif;
+}
+#Main-Wrapper {
+	padding-top: 20px;
+	border-radius: 10px;
+	margin-top: 30px;
+	height: 2000px;
+	width: 950px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Fotos {
+	background-color: #0099FF;
+	margin: 0px auto 0 auto;
+	border-radius: 10px;
+	height: 130px;
+	width: 900px;
+	border: 2px solid #000000;
+}
+#img1 {
+	margin-top: 20px;
+	margin-right: 20px;
+	border-radius: 9px;
+	float: right;
+	width: 500px;
+}
+#Nav-Bar {
+	margin-top: 30px;
+}
+#Nav-Bar li {
+	float: left;
+	list-style-type: none;
+}
+#Nav-Bar a:link,a:visited {
+	text-transform: uppercase;
+	font-family: kop;
+	text-align: center;
+	padding-top: 10px;
+	margin-left: 57px;
+	color: #000;
+	text-decoration: none;
+	width: 100%;
+	padding-bottom: 10px;
+	display: block;
+}
+#Nav-Bar a:hover,a:active {
+		font-weight: bold;
+}
+#active {
+	font-weight: bold;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+
+
+}
+#normal {
+	margin-left: 4px;
+
+}
+#nu {
+	padding: 20px;
+	border-radius: 10px;
+	width: 900px;
+	display: block;
+	margin:86px auto 0 auto;
+	height: 900px;
+}
+#logo {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 46px;
+	font-family: kop;
+	float: left;
+	margin-left: 40px;
+	margin-top: 35px;
+}
+#flyer {
+	border-radius: 10px;
+	width: 400px;
+	float: right;
+}
+#kop1 {
+	text-transform: uppercase;
+	font-family: kop;
+	font-weight: bold;
+}
+#tekst1 {
+	width: 400px;
+}
+#facebook {
+	margin-top: 35px;
+	margin-left: 200px;
+	width: 40px;
+	float: left;
+}
+#facebook:hover,#youtube:hover {
+	opacity: 0.8;
+}
+#youtube {
+	width: 40px;
+	float: left;
+	margin: 35px 0 0 15px;
+
+}
+#schuin {
+	font-style: italic;
+}
